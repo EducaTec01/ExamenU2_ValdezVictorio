@@ -1,5 +1,3 @@
-![logos](Img/image_2023-11-01_115017533.png)
-
 # Examen Recuperacion Primer Opertunidad Unidad 2
 
 
@@ -8,6 +6,9 @@
 - [Resumen](Resumen/readme.md)
 
 ------
+<p align="center">
+  <img src="Img/image_2023-11-01_115017533.png" alt="Texto alternativo">
+</p>
 
 <pre>
 

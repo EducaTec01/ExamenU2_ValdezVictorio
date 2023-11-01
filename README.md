@@ -2,8 +2,8 @@
 
 
 ## Índice
-- [Codigo](Codigo/readme.md)
-- [Resumen](Resumen/readme.md)
+- [Codigo](Codigo)
+- [Resumen](Resumen)
 
 ------
 <p align="center">

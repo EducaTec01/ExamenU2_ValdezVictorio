@@ -1,30 +1,18 @@
-# templete-picow
-Para trabajos de microcontroladores
+# Examen Recuperacion Primer Opertunidad Unidad 2
 
-# Ver el directorio de /code/ para como documentar un programa con sus pantallas, etc.
+## Índice
+- [Sección 1](#sección-1)
+- [Sección 2](#sección-2)
+- [Sección 3](#sección-3)
 
-```C
-/*
- * Nombre del Archivo: main.c
- * Autor:   [Tu Nombre]
- * Correo:  [Tu Correo]
- * Fecha:   [Fecha]
- * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
- * 
- * Objetivo:
- * Este programa está diseñado para [proporcionar una breve descripción del objetivo del programa].
- *
- * Historial de Revisiones:
- * [Fecha]        [Tu Nombre] - Creado
- * [Fecha]        [Tu Nombre] - Actualizado para añadir [característica/corrección]
- *
- */
+## Sección 1
+Este es el contenido de la Sección 1.
 
-#include <stdio.h>
+## Sección 2
+Este es el contenido de la Sección 2.
 
-int main(void) {
-    // Tu código aquí
-    return 0;
-}
+## Sección 3
+Este es el contenido de la Sección 3.
 
-```
+
+
